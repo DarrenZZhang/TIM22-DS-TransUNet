@@ -1,5 +1,5 @@
 # DS-TransUNet
-This repository contains the official code of DS-TransUNet: Dual Swin Transformer U-Net for Medical Image Segmentation
+This repository contains the official code of DS-TransUNet: Dual Swin Transformer U-Net for Medical Image Segmentation, which has been published on IEEE TIM 2022.
 
 ## Requirements
 * `Python==3.7.6`
